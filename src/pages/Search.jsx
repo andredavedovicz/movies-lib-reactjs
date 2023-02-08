@@ -6,7 +6,7 @@ import "./MoviesGrid.css";
 
 const searchURL = import.meta.env.VITE_SEARCH;
 const apiKey = import.meta.env.VITE_API_KEY;
-
+const searchURLDEPLOY="https://api.themoviedb.org/3/search/movie";
 
 
 const Search = () => {
@@ -22,7 +22,7 @@ const Search = () => {
   };    
 
   useEffect(() => {
-    const searchWithQueryURL = `${searchURL}?${apiKey}&query=${query}`;
+    const searchWithQueryURL = `${searchURLDEPLOY}?${apiKey}&query=${query}`;
 
     getSearchedMovies(searchWithQueryURL);
   }, [query]);
