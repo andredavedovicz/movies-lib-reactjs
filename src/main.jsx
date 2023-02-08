@@ -12,6 +12,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
+      <div>Main</div>
       <Routes>
         <Route element={<App/>}>
           <Route path='/' element={<Home/>}/>
