@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>⚜️&nbsp; P O M O D O R O &nbsp; T I M E R &nbsp;⚜️</h2>
+    <h1>📽 &nbsp; MOVIES &nbsp; LIB &nbsp; 📽</h2>
     <p align="center">
     <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
